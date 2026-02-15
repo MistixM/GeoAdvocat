@@ -14,7 +14,7 @@
 
 <br/>
 
-[How It Works](#-how-it-works) · [Key Features](#-key-features) · [What You Get](#-what-you-get) · [Get Started](#-get-started)
+[How It Works](#about) · [Key Features](#key-features) · [What You Get](#what-you-get)
 
 <br/>
 
